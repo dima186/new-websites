@@ -1,0 +1,177 @@
+body{
+    background-color: black;
+    padding: 0%;
+}
+
+.white{
+    background-color: #00FF61 ;
+    height: 100px;
+    width: 100%;
+    display: block;
+    padding: 2px;
+    border: 3px solid #74FD0E ;
+    margin: 5px;
+}
+
+.text1{
+    display: flex;
+    position: absolute;
+    margin-left: 450px;
+    color: #fff;
+    font-weight: lighter;
+    background-color: green;
+    padding-left: 180px;
+    padding-right: 100px;
+    border: 3px solid #74FD0E ;
+    border-radius: 10px;
+    
+    
+}
+
+.text2{
+    color:#fff ;
+    display: flex;
+    float: right;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: #00FF61;
+    padding:10px;
+    border:3px solid #74FD0E;
+    border-radius: 10px;
+    
+
+    
+}
+
+
+.nigeria{
+    display: flex;
+    width: 30%;
+    position: absolute;
+    background-color: #00FF61;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    float: left;
+    margin-top: 30px;
+    
+
+}
+
+.pharagraf1{
+    display: flex;
+    color: #fff;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 480px;
+    background-color: #00FF61;
+    width: auto;
+    line-height: 1.3em;
+}
+
+.button:hover{
+    background-color: #74FD0E;
+    color: #fff;
+    background: linear-gradient(to left, lightgreen 40%, darkgreen 50%) right;
+    background-size: 200% 100%;
+   
+}
+
+.button{
+    margin-top: 50px;
+    display: flex;
+    background-color: black;
+    padding: 8px;
+    border: 3px solid green;
+    color: #fff;
+    transition: 0.4s;
+    margin-left: 40px;
+}
+
+.kvara{
+   display: flex;
+   width: 35%;
+   background-color: #00FF61;
+   padding: 15px;
+   float: left;
+   margin-left: 50px;
+
+}
+
+.pharagraf2{
+    color: #fff;
+    background-color: #00FF61;
+    padding: 4px;
+    font-weight: lighter;
+    border: 3px solid  #74FD0E ;
+    width: 90%;
+    margin-left: 60px;
+
+}
+
+.pink{
+    background-color: green;
+    height: 10px;
+    margin-top: 15px;
+    
+}
+
+.kvara2{
+    display: flex;
+    width: 35%;
+    float: right;
+    background-color: #00FF61;
+    padding: 15px;
+    margin-right: 50px;
+
+}
+
+.pharagraf3{
+    display: flex;
+    color: #fff;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #00FF61;
+    padding: 4px;
+    font-weight: lighter;
+    line-height: 1.3s;
+    margin-top:320px;
+    border: 3px solid #74FD0E;
+    
+}
+
+.btn:hover{
+    background-color: #74FD0E;
+    color: #fff;
+    background: linear-gradient(to left, lightgreen 20%, darkgreen 60% )right;
+    background-size: 200% 100%;
+}
+
+.btn{
+    margin-top: 50px;
+    display: flex;
+    background-color: black;
+    padding: 8px;
+    border: 3px solid green;
+    color: #fff;
+    transition: 0.4s;
+    margin-left: 570px;
+
+}
+
+a{
+    
+    color: #fff;
+    font-weight: lighter;
+    margin-left: 4px;
+}
+
+ul{
+    background-color: #74FD0E;
+    padding: 3px;
+    border: 3px solid #00FF61;
+    border-radius: 2px;
+
+}
